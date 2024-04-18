@@ -149,3 +149,39 @@ round,test,search term,test type,combo 1,ps 1,pct ps 1,time 1,combo 2,ps 2,pct p
 3,8,influenza,L,c13,4,80,9,c10,1,20,2,c11,0,0,N/A,c12,0,0,N/A
 3,8,long covid,M,c11,3,60,9,c10,1,20,8,c12,1,20,18,c9,0,0,N/A
 3,8,long covid,L,c9,2,40,4,c10,1,20,8,c11,1,20,4,c12,1,20,3
+4,1,influenza,M,c2,2,40,14,c15,1,20,27,c1,1,20,32,c14,1,20,126
+4,1,influenza,L,c15,2,40,10,c14,1,20,35,c1,1,20,8,c2,1,20,13
+4,1,long covid,M,c15,2,40,10,c13,2,40,53,c14,1,20,94,c1 ,0,0,N/A
+4,1,long covid,L,c13,2,40,4,c14,2,40,20,c15,1,20,17,c1 ,0,0,N/A
+4,1,malaria therapeutics,M,c14,2,40,19,c15,1,20,211,c1,1,20,35,c2,1,20,13
+4,1,malaria therapeutics,L,c15,3,60,20,c1,2,40,12,c14,0,0,N/A,c2,0,0,N/A
+4,2,allergy treatment,M,c15,2,40,27,c14,2,40,30,c13,1,20,127,c1 ,0,0,N/A
+4,2,allergy treatment,L,c1,4,80,8,c13,1,20,46,c15,0,0,N/A,c14,0,0,N/A
+4,2,asthma,M,c4,2,40,51,c1,2,40,20,c15,1,20,24,c2,0,0,N/A
+4,2,asthma,L,c4,2,40,21,c1,2,40,8,c2,1,20,19,c15,0,0,N/A
+4,2,zika microcephaly,M,c1,2,40,83,c2,1,20,14,c14,1,20,21,c15,1,20,23
+4,2,zika microcephaly,L,c14,2,40,16,c15,2,40,7,c1,1,20,49,c2,0,0,N/A
+4,3,AIDS,M,c15,3,60,45,c14,1,20,12,c1,1,20,198,c13,0,0,N/A
+4,3,AIDS,L,c1,4,80,12,c14,1,20,13,c15,0,0,N/A,c13,0,0,N/A
+4,3,cancer,M,c14,2,40,69,c1,2,40,15,c2,1,20,30,c15,0,0,N/A
+4,3,cancer,L,c14,2,40,22,c15,1,20,9,c1,1,20,11,c2,1,20,14
+4,3,sublingual immunotherapy,M,c1,4,80,52,c14,1,20,7,c15,0,0,N/A,c13,0,0,N/A
+4,3,sublingual immunotherapy,L,c1,3,60,20,c14,1,20,4,c15,1,20,8,c13,0,0,N/A
+4,4,dendritic cells,M,c14,2,40,60,c15,1,20,75,c1,1,20,12,c13,1,20,15
+4,4,dendritic cells,L,c15,2,40,16,c1,2,40,30,c13,1,20,11,c14,0,0,N/A
+4,4,mast cells,M,c1,3,60,17,c14,1,20,36,c2,1,20,13,c13,0,0,N/A
+4,4,mast cells,L,c13,2,40,8,c14,2,40,11,c2,1,20,21,c1,0,0,N/A
+4,4,myocardial infarction,M,c1,2,40,21,c14,2,40,33,c13,1,20,27,c15,0,0,N/A
+4,4,myocardial infarction,L,c1,3,60,13,c14,1,20,12,c15,1,20,29,c13,0,0,N/A
+4,5,gwas,M,c13,3,60,26,c15,2,40,32,c1,0,0,N/A,c14,0,0,N/A
+4,5,gwas,L,c1,3,60,12,c15,1,20,6,c13,1,20,7,c14,0,0,N/A
+4,5,plasmacytoid dendritic cells,M,c13,3,60,24,c14,2,40,21,c15,0,0,N/A,c1,0,0,N/A
+4,5,plasmacytoid dendritic cells,L,c1,2,40,8,c14,1,20,24,c15,1,20,15,c13,1,20,32
+4,5,tuberculin skin test,M,c2,3,60,13,c1,1,20,23,c14,1,20,15,c15,0,0,N/A
+4,5,tuberculin skin test,L,c2,2,40,11,c15,2,40,8,c14,1,20,13,c1,0,0,N/A
+4,6,hiv,M,c1,2,40,22,c15,1,20,9,c13,1,20,20,c14,1,20,56
+4,6,hiv,L,c1,4,80,9,c14,1,20,13,c15,0,0,N/A,c13,0,0,N/A
+4,6,influenza,M,c1,3,60,14,c4,1,20,13,c2,1,20,25,c3,0,0,N/A
+4,6,influenza,L,c2,2,40,9,c3,1,20,5,c4,1,20,11,c1,1,20,5
+4,6,mycobacterium,M,c13,2,40,18,c15,1,20,34,c1,1,20,6,c14,1,20,14
+4,6,mycobacterium,L,c1,4,80,10,c15,1,20,9,c13,0,0,N/A,c14,0,0,N/A
