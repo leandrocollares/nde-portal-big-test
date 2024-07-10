@@ -1,19 +1,19 @@
 set 1,set 2,statistic,p-value,winner
-original query,combi 1,8.0,0.00018663848961448544,combi 1
-original query,combi 2,22.0,3.1948089599609375e-05,combi 2
-original query,combi 3,32.0,0.00016230344772338867,combi 3
-original query,combi 4,65.0,0.007370948791503906,combi 4
-original query,combi 5,74.0,0.01597297191619873,combi 5
-original query,combi 6,8.0,0.00018663848961448544,combi 6
-original query,combi 7,19.0,0.00018193967516985757,combi 7
-original query,combi 8,38.0,0.0003764033317565918,combi 8
-original query,combi 9,67.0,0.008822321891784668,combi 9
-original query,combi 10,66.0,0.00806879997253418,combi 10
-original query,combi 11,6.0,0.00014125368757832353,combi 11
-original query,combi 12,16.0,0.0002067487536799894,combi 12
-original query,combi 13,25.0,5.3882598876953125e-05,combi 13
-original query,combi 14,48.0,0.0012963414192199707,combi 14
-original query,combi 15,44.0,0.0008081197738647461,combi 15
+original,combi 1,8.0,0.00018663848961448544,combi 1
+original,combi 2,22.0,3.1948089599609375e-05,combi 2
+original,combi 3,32.0,0.00016230344772338867,combi 3
+original,combi 4,65.0,0.007370948791503906,combi 4
+original,combi 5,74.0,0.01597297191619873,combi 5
+original,combi 6,8.0,0.00018663848961448544,combi 6
+original,combi 7,19.0,0.00018193967516985757,combi 7
+original,combi 8,38.0,0.0003764033317565918,combi 8
+original,combi 9,67.0,0.008822321891784668,combi 9
+original,combi 10,66.0,0.00806879997253418,combi 10
+original,combi 11,6.0,0.00014125368757832353,combi 11
+original,combi 12,16.0,0.0002067487536799894,combi 12
+original,combi 13,25.0,5.3882598876953125e-05,combi 13
+original,combi 14,48.0,0.0012963414192199707,combi 14
+original,combi 15,44.0,0.0008081197738647461,combi 15
 combi 1,combi 2,47.0,0.017270445346494193,combi 2
 combi 1,combi 3,103.0,0.28709167639284705,combi 3
 combi 1,combi 4,116.0,0.3313349065031326,combi 1
